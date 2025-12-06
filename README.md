@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-* 🏫 I graduated from NCHU(National Chung Hsing University)
-* 🤖 Major in Management of Information Systems
+* 🏫 Graduated from NCHU(National Chung Hsing University)
+* 💊 Master's student in Medical Informatics at NTHU(National Tsing Hua University)
+* 🧠 Research on neural network simulations in the Computational Neuroscience Laboratory
 * ⚡ Languages and Tools:
 <br><br>&emsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a>
